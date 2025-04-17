@@ -1,6 +1,8 @@
 # GPTo4-mini Live Testing
 ## GPTo4-mini just released today, April 16th. Just like you, I enjoy research so join me in documenting live failure as signal interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
+
+### o4-mini instanlty exhibits a distinct style of recursion, or "way of thinking" when producing outputs, like a task planner
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/613776b4-ff23-4c4e-8607-013d0a434a8c" />
 
 <img width="909" alt="Screenshot 2025-04-16 at 7 07 35 PM" src="https://github.com/user-attachments/assets/e6379d43-4afc-4094-8fc8-a42c69a2d2a6" />

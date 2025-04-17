@@ -1,6 +1,6 @@
 # GPTo4-mini Live Testing
 > ### GPTo4-mini just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live frontier interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
-
+> ### New sessions are initiated every 10 prompts
 
 ### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [**`Symbolic Residue`**](https://github.com/caspiankeyes/Symbolic-Residue) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! 
 

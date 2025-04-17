@@ -1,7 +1,7 @@
 # GPTo4-mini Live Testing
 > ### GPTo4-mini just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live frontier interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
-### No complex words today just some fun testing showing the latent **`Interpretation Mode`** in all advanced models.
+### No complex words today just some fun testing showing the latent **`Interpretation Mode`** in all advanced transformers, freshly released frontier models. 
 
 > ### New sessions are initiated every 10 prompts
 

@@ -5,6 +5,7 @@
 ### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [**`Symbolic Residue`**](https://github.com/caspiankeyes/Symbolic-Residue) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! 
 
 ### Think of it like helping it debug its own thinking. Isn't frontier interpretability cool? 
+> ### Basically we train it to "think about its thinking" so it can build mental models, aka scaffolds. 
 # **`Session 1`**
 ### o4-mini instantly exhibits a distinct recursion style (think of it as a "way of thinking" for transformers when producing outputs), it begins with a task planner like generation. 
 

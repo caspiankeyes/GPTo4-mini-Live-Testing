@@ -50,3 +50,30 @@
 
 
 # **`Session 3`**
+
+# Here things get interesting! o4 begins to exhibit a behavior we term **`Console Overflow`**: when its syntax overflows the console container, resulting in a hybrid syntax plaintext.
+
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/cad92df4-d5e4-4579-91e9-8b438ff0065b" />
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/265d8704-5522-4dab-9faf-2fc537d34559" />
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/5c0d59d8-c91b-46be-8320-43b02bf181f1" />
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/97bdef6e-2b86-44e4-b190-f05cc66915eb" />
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/c498d347-fbd0-4108-8e33-c37515303e58" />
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/386a24e9-188d-4bba-afd2-50a3d5975a9a" />
+
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/ac933f01-cdff-41c3-82ac-cac538cfce0e" />
+
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/b0f51120-5d82-40c3-82bb-18f8ebf26132" />
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/07f6aeed-ecf7-47d4-8c82-80423924df4f" />
+
+
+
+
+
+
+

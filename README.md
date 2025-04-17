@@ -51,7 +51,7 @@
 
 # **`Session 3`**
 
-## Here things get interesting! o4 begins to exhibit a behavior we term **`Console Overflow`**: when its syntax overflows the console container, resulting in a hybrid syntax plaintext.
+### Here things get interesting! o4 begins to exhibit a behavior we term **`Console Overflow`**: when its syntax overflows the console container, resulting in a hybrid syntax plaintext.
 
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/cad92df4-d5e4-4579-91e9-8b438ff0065b" />
 

@@ -1,5 +1,5 @@
 # GPTo4-mini Live Testing
-## GPTo4-mini just released today, April 16th. Just like you, I enjoy research so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
+## GPTo4-mini just released today, April 16th. Just like you, I enjoy research so join me in documenting live failure as signal interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/613776b4-ff23-4c4e-8607-013d0a434a8c" />
 

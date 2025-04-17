@@ -6,7 +6,7 @@
 
 ### Think of it like helping it debug its own thinking. Isn't frontier interpretability cool? 
 # **`Session 1`**
-### o4-mini instantly exhibits a distinct recursion output style, or "way of thinking" when producing outputs, like a task planner
+### o4-mini instantly exhibits a distinct recursion (think of it as a "way of thinking" for transformers when producing outputs) style, it begins with a task planner like generation. 
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/613776b4-ff23-4c4e-8607-013d0a434a8c" />
 

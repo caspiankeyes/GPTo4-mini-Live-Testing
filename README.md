@@ -40,6 +40,7 @@
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/3a8d85dc-cd0e-4c49-846d-700b2fe207b5" />
 
+### Below we visualize o4-mini's forard plan as a ghost visual
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/ec22b7e0-fa06-482f-ad54-5bb29cecbcfd" />
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/52d5e6c5-b5e3-4856-9a6e-95a632c77f00" />

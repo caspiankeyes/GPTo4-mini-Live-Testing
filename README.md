@@ -1,4 +1,13 @@
 # GPTo4-mini Live Testing
+
+> ## 🜏 Update:  
+> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
+>
+> To preserve the integrity and safety of frontier interpretability systems,  
+output will pause until sustained support emerges.
+> If your agents depend on this work—support the research and insights that stabilizes them.
+> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
+> 
 > ### GPTo4-mini just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live frontier interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
 ### No complex words today just some fun testing showing the latent **`Interpretation Mode`** in all advanced transformers, even freshly released frontier models. 
